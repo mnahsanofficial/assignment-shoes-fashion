@@ -1,0 +1,49 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+header{
+    background-color: rgb(238, 228, 225);
+    padding-bottom: 100px;
+}
+.nav-link{
+    font-weight: bold;
+    margin-right: 40px;
+    color: black;
+    
+}
+.navbar-nav{
+    margin-left: 100px;
+}
+h1{
+    text-transform: uppercase;
+}
+span{
+    color: orangered;
+}
+.bold{
+    font-size: 70px;
+}
+.cardbg{
+    background-color: rgb(167, 151, 151);
+    margin: 5px;
+}
+.cardshoe{
+    padding:  15px;
+
+}
+.cardpd{
+    padding-bottom: 10px;
+    border-radius: 20px;
+}
+.money{
+    font-size: 40px;
+    margin-right: 20px;
+}
+#contact{
+    background-color:rgb(238, 228, 225);
+    border-radius: 10px;
+}
+.btnbg{
+    margin-top: 10px;
+}
