@@ -2,9 +2,12 @@ body{
     font-family: 'Poppins', sans-serif;
    
 }
-header{
+.top{
     background-color: rgb(238, 228, 225);
     padding-bottom: 100px;
+}
+header{
+    background-color: rgb(238, 228, 225);
 }
 .nav-link{
     font-weight: bold;
