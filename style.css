@@ -11,10 +11,9 @@ header{
 }
 .nav-link{
     font-weight: bold;
-    margin-right: 40px;
 }
 .navbar-nav{
-    margin-left: 100px;
+    margin-left: 150px;
 }
 h1{
     text-transform: uppercase;
