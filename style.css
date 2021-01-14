@@ -44,3 +44,13 @@ span{
     background-color:rgb(238, 228, 225);
     border-radius: 10px;
 }
+@media(max-width:992px){
+    .navbar-brand{
+        float: left;
+        width: 70%;
+    }
+    .navbar-nav , .buttonmq{
+        float: right;
+    }
+
+}
